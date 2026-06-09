@@ -75,8 +75,6 @@ Customers showed diverse payment preferences with no dominant payment method.
 
 ## Project Files
 - `supermarket-sales-visualization.pbix` - Power BI dashboard file
-- `sales-performance-overview.png` - Dashboard overview and sales performance metrics
-- `customer-behavior-analysis.png` - Customer behavior and transaction analysis dashboard
 - `README.md` - Project Documentation
 
 ## Author
